@@ -30,3 +30,8 @@ In the fourth attempt, I removed the " STATUS" column as well as I thought it wa
 ## Summary
 
 After four attempts, I was unable to create a model that could preform a 75% accuracy rating. This is potential becasue I got rid of too many columns, I did not use the correct activation function, or I did not have hte right amount of layers and neurons. These were the main areas I continued the change with little to no improvement. Next time, I would research more about activation functions to make sure that I am always choosing the right one based on the data. 
+
+
+### Sidenote
+
+I have unfrotunately been tested positive for Covid 10 and am currently under hospitalisation treatment. Kindly excise my late submission and consider teh code. I am on a 100/100 streak and do not wanna break that. 
